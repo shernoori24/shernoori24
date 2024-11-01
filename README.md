@@ -1,7 +1,10 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+My name is Sheraqa, and I'm a [Web developer](https://shernoori24.github.io/Portfolio/) !
+- 🔭 I’m currently working on [E-commerce site](https://shernoori24.github.io/e-commerce-shop/)
+- 🌱 I’m currently learning to become full stack developer 
+- 👯 I’m looking to collaborate on YouTube videos!
+  - Send me ideas to shernoori24@gmail.com
 
 <!--
 **shernoori24/shernoori24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
