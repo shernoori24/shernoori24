@@ -1,9 +1,10 @@
-## Hi there 👋
+## Bonjour 👋
 
-My name is Sheraqa, and I'm a [Web developer](https://shernoori24.github.io/Portfolio/) !
-- 🔭 I’m currently working on [E-commerce site](https://shernoori24.github.io/e-commerce-shop/)
-- 🌱 I’m currently learning to become full stack developer 
-  - Send me ideas to shernoori24@gmail.com
+Je m'appelle Sheraqa et je suis [développeur web](https://shernoori24.github.io/Portfolio/) !
+- 🔭 Je travaille actuellement sur un [site e-commerce](https://shernoori24.github.io/e-commerce-shop/)
+- 🌱 J'apprends actuellement à devenir développeur full stack 
+  - Envoyez-moi vos idées à shernoori24@gmail.com
+
 
 <!--
 **shernoori24/shernoori24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
