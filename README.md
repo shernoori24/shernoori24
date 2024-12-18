@@ -3,7 +3,6 @@
 My name is Sheraqa, and I'm a [Web developer](https://shernoori24.github.io/Portfolio/) !
 - 🔭 I’m currently working on [E-commerce site](https://shernoori24.github.io/e-commerce-shop/)
 - 🌱 I’m currently learning to become full stack developer 
-- 👯 I’m looking to collaborate on YouTube videos!
   - Send me ideas to shernoori24@gmail.com
 
 <!--
