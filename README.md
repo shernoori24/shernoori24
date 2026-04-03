@@ -1,11 +1,67 @@
-## Bonjour 👋
+## Bonjour, je suis Sheraqa Noori 👋
 
-Je m'appelle **Sheraqa Noori** et je suis [Développeur Intelligence Artificielle et Data Science](http://sheraqanoori.fr/) passionné !
+Je suis un profil **Data Analyse** et **Développement Web Full Stack**, actuellement en parcours de spécialisation en IA et Data Science.
 
-- 🎓 Je suis actuellement en formation **"Développeur en Intelligence Artificielle et Data Science"** au **Pôle Formation UIMM Champagne-Ardenne** à Charleville-Mézières.
-- 🧠 L'intelligence artificielle et la science des données sont des domaines qui me passionnent et que j’approfondis chaque jour à travers des projets pratiques et des cours spécialisés.
-- ✉️ Vous pouvez me contacter pour échanger, collaborer ou proposer un projet : **shernoori24@gmail.com**
+Je recherche un **emploi** pour contribuer à des projets concrets, orientés données et produits web.
+
+## Objectif professionnel
+
+- Construire des solutions data utiles a la decision (analyse, visualisation, modeles predictifs).
+- Developper des applications web fiables, avec une attention a l'experience utilisateur et a la qualite du code.
+- Evoluer dans un environnement d'equipe ou je peux apprendre vite et apporter des resultats mesurables.
+
+## Competences techniques
+
+### Data
+
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Scikit-learn**
+- **SQL**
+- **Power BI**
+
+### Web
+
+- **HTML / CSS**
+- **JavaScript**
+- **React**
+- **PHP**
+- **MySQL / PostgreSQL**
+- **Git / GitHub**
+
+## Projets phares
+
+> Section en cours de finalisation avec mes projets reels.
+
+### 1) Analyse commerciale et dashboard Power BI
+
+- **Objectif:** A completer
+- **Stack:** SQL, Power BI, Python
+- **Resultat:** A completer
+
+### 2) Application web full stack
+
+- **Objectif:** A completer
+- **Stack:** React, PHP, MySQL
+- **Resultat:** A completer
+
+### 3) Modele de prediction
+
+- **Objectif:** A completer
+- **Stack:** Python, Pandas, NumPy, Scikit-learn
+- **Resultat:** A completer
+
+## Formation
+
+- **Developpeur en Intelligence Artificielle et Data Science**
+- Pole Formation UIMM Champagne-Ardenne
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/shernoori24/
+- Email: shernoori24@gmail.com
 
 ---
 
-Merci de visiter mon profil GitHub ! 🚀
+Merci pour votre visite. Je suis ouvert aux opportunites d'emploi en Data Analyse et Developpement Web Full Stack.
