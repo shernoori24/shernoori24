@@ -1,7 +1,7 @@
 # Bonjour, je suis Sheraqa Noori 👋
 
 > **Développeur Web Full Stack | IA & Data Science | Fondateur de DigiStep**  
-> 📍 Charleville-Mézières, France &nbsp;•&nbsp; 🇫🇷 Français B2 &nbsp;•&nbsp; 🇬🇧 English B2 &nbsp;•&nbsp; 🇮🇷 Persan natif
+> 📍 Charleville-Mézières, France &nbsp;•&nbsp; 🇫🇷 Français B2 &nbsp;•&nbsp; 🇬🇧 English B2 &nbsp;•&nbsp; 🇦🇫 Persan natif 
 
 ---
 
@@ -75,7 +75,6 @@ Je suis un profil **Data & Web** en spécialisation IA/Data Science, ouvert à d
 
 ## 💼 Expériences
 
-- 🏭 **Opérateur de production** — Stellantis via Adecco *(2025–2026)*
 - 💻 **Stagiaire Dev IA & Data** — Association J'SPR 08 *(Juin–Sept 2025)*
 - 🌐 **Stagiaire Dev Web** — Association J'SPR 08 *(Fév 2025)*
 - 🎨 **Bénévole design & vidéo** — École de danse Arduinna
